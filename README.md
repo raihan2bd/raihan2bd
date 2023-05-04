@@ -1,4 +1,5 @@
-<img width="100%" height="250px" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif" alt="console.log('Hello World')">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/35267447/236123471-2ada1319-fa49-4b65-affc-350ba7db181e.jpg" alt="console.log('Hello World')">
+
 <h1 align="center">Hi 👋, I'm Abu Raihan</h1>
 <h3 align="center">A professional full-stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/35267447/206914767-66766216-5c8a-4626-a9c3-b4663972e238.gif">
