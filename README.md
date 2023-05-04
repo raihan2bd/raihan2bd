@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abu Raihan</h1>
 <h3 align="center">A professional full-stack developer from Bangladesh</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raihan2bd&label=Profile%20views&color=0e75b6&style=flat" alt="raihan2bd" /> </p>
-<img align="right" alt="Coding" width="550" src="https://user-images.githubusercontent.com/35267447/236245850-c8e9ff64-984e-47d5-8b30-bb5fa6184ff3.gif">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/35267447/236245850-c8e9ff64-984e-47d5-8b30-bb5fa6184ff3.gif">
 
 - 🌱 I’m currently learning **Microverse full-stack program, Golang, Rust**
 
