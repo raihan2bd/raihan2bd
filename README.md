@@ -6,10 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan2bd&label=Profile%20views&color=0e75b6&style=flat" alt="raihan2bd" /> </p>
 
-- 🌱 I’m currently learning **Microverse full-stack software engineer, Ruby, GO, React Native**
+- 🌱 I’m currently learning **Microverse full-stack program, Golang, Rust**
 
-- 💬 Ask me about **Html, CSS, JavaScript, React, Typescript, GO**
-
+- 💬 Ask me about **Html, CSS, JavaScript, React, Ruby Golang**
+- 💻 Looking for new opportunity as a Full Stack Developer.
+- 🌱 My portfolio is [here](https://raihan2bd.github.io/portfolio/)
+- 🌱 My Resume is [here](https://docs.google.com/document/d/10i8iSxPpTRqoK2Wq6OMgxn8V59zhhvqfDHmYgASkOP0/edit?usp=sharing)
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
