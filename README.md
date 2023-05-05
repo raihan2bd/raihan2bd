@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html, CSS, JavaScript, React, Ruby Golang**
 - 💻 Looking for new opportunity as a Full Stack Developer.
-- 🌱 My portfolio is [here](https://raihan2bd.github.io/portfolio/)
+- 🌏 My portfolio is [here](https://raihan2bd.github.io/portfolio/)
 - 🌱 My Resume is [here](https://docs.google.com/document/d/10i8iSxPpTRqoK2Wq6OMgxn8V59zhhvqfDHmYgASkOP0/edit?usp=sharing)
 - ⚡ Fun fact **I think I am funny**
 
@@ -24,6 +24,12 @@
 <a href="https://linkedin.com/in/raihan2bd" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+</p>
+<h2>Some of My Recent Projects</h3>
+<p>
+<a href="https://github.com/raihan2bd/hungry-hub"><img src="https://user-images.githubusercontent.com/35267447/223940500-3aea07b1-4bc6-4705-ae49-e64f96544b44.PNG" width="330" alt="project"></a>
+<a href="https://github.com/raihan2bd/hotel-bookings"><img src="https://user-images.githubusercontent.com/35267447/223337938-c8ab34f0-20c6-4d8e-b47a-10558d3c7beb.PNG" width="330" alt="project"></a>
+<a href="https://github.com/raihan2bd/chatgpt-go"><img src="https://user-images.githubusercontent.com/35267447/229288848-3b920169-b580-4121-b0c6-cc431bb12fc6.PNG" width="330" alt="project"><a/>
 </p>
 
 <h3>Languages and Tools:</h3>
