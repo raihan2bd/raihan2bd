@@ -1,7 +1,8 @@
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/35267447/236123471-2ada1319-fa49-4b65-affc-350ba7db181e.jpg" alt="console.log('Hello World')">
 
 <h1 align="center">Hi 👋, I'm Abu Raihan</h1>
-<h3 align="center">A professional full-stack developer from Bangladesh</h3>
+<h3 align="center">Professional Full-stack Developer</h3>
+<p>Experienced Full-stack Software Developer with 4+ years in web development (Javascript, Go(Golang), TypeScript, Nextjs, Nodejs, Ruby on Rails  HTML, CSS) and cross-platform mobile apps. Skilled in crafting dynamic websites, and robust apps, and adeptly mentoring teams. A confident communicator and strategic thinker, I excel in graphic design, enhancing user experiences through visually appealing interfaces. Dedicated to cultivating software that showcases core competencies and propels success to new heights.<p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raihan2bd&label=Profile%20views&color=0e75b6&style=flat" alt="raihan2bd" /> </p>
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/35267447/236245850-c8e9ff64-984e-47d5-8b30-bb5fa6184ff3.gif">
 
