@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raihan2bd&label=Profile%20views&color=0e75b6&style=flat" alt="raihan2bd" /> </p>
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/35267447/236245850-c8e9ff64-984e-47d5-8b30-bb5fa6184ff3.gif">
 
-- 🌱 I’m currently learning **Golang, Rust**
+- 🌱 I’m currently learning **React Navive**
 
 - 💬 Ask me about **Html, CSS, JavaScript, React, Ruby Golang**
 - 💻 Looking for a new opportunity as a Full Stack Developer.
