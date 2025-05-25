@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Ruby, Typescript, Golang**
+- 💬 Ask me about **React, Nextjs JavaScript, React, Ruby, Typescript, Golang**
 - 💻 Looking for a new opportunity as a Full Stack Developer.
 - 🌏 My portfolio is [here](https://portfolio-raihan2bd.vercel.app)
 - 🌱 My Resume is [here](https://docs.google.com/document/d/10i8iSxPpTRqoK2Wq6OMgxn8V59zhhvqfDHmYgASkOP0/edit?usp=sharing)
