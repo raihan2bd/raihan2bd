@@ -6,9 +6,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raihan2bd&label=Profile%20views&color=0e75b6&style=flat" alt="raihan2bd" /> </p>
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/35267447/236245850-c8e9ff64-984e-47d5-8b30-bb5fa6184ff3.gif">
 
-- 🌱 I’m currently learning **React Navive**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Html, CSS, JavaScript, React, Ruby Golang**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Ruby, Typescript, Golang**
 - 💻 Looking for a new opportunity as a Full Stack Developer.
 - 🌏 My portfolio is [here](https://portfolio-raihan2bd.vercel.app)
 - 🌱 My Resume is [here](https://docs.google.com/document/d/10i8iSxPpTRqoK2Wq6OMgxn8V59zhhvqfDHmYgASkOP0/edit?usp=sharing)
