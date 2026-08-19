@@ -1,8 +1,11 @@
 <img width="100%" height="100%" src="https://github.com/user-attachments/assets/09881e44-1534-4670-b160-ff321ed7b84f" alt="console.log('Hello World')">
 
 <h1 align="center">Hi 👋, I'm Abu Raihan</h1>
-<h3 align="center">Professional Full-stack Developer</h3>
-<p>Experienced Full-stack Software Developer with 4+ years in web development (Javascript, Go(Golang), TypeScript, Nextjs, Nodejs, Ruby on Rails  HTML, CSS) and cross-platform mobile apps. Skilled in crafting dynamic websites, and robust apps, and adeptly mentoring teams. A confident communicator and strategic thinker, I excel in graphic design, enhancing user experiences through visually appealing interfaces. Dedicated to cultivating software that showcases core competencies and propels success to new heights.<p>
+<h3 align="center">Full-Stack Engineer</h3>
+<p>Full-Stack Engineer with 2+ years of professional software engineering experience, backed by a longer background in web development and graphic design. I build and ship production web applications across the frontend and backend, with a strong focus on Go, TypeScript, JavaScript, Node.js, Next.js, React, and Python.<p>
+<p>I enjoy working on scalable systems, microservice architectures, REST/gRPC APIs, real-time applications, databases, and cloud infrastructure with AWS and Docker. I also use modern AI-assisted development tools such as ChatGPT, Claude, Gemini, GitHub Copilot, and Cursor to improve development speed, debugging, and overall engineering productivity.
+
+My background in graphic design gives me a different perspective on software, I care not only about how systems work, but also about how products look, feel, and are experienced by users.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raihan2bd&label=Profile%20views&color=0e75b6&style=flat" alt="raihan2bd" /> </p>
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/35267447/236245850-c8e9ff64-984e-47d5-8b30-bb5fa6184ff3.gif">
 
