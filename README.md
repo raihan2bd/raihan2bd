@@ -14,7 +14,7 @@ My background in graphic design gives me a different perspective on software, I 
 - 💬 Ask me about **React, Nextjs JavaScript, React, Ruby, Typescript, Golang**
 - 💻 Looking for a new opportunity as a Full Stack Developer.
 - 🌏 My portfolio is [here](https://raihan2bd.me)
-- 🌱 My Resume is [here](https://docs.google.com/document/d/10i8iSxPpTRqoK2Wq6OMgxn8V59zhhvqfDHmYgASkOP0/edit?usp=sharing)
+- 🌱 My Resume is [here](https://drive.google.com/file/d/1m7ghBbnE5sUhjOlVQK8TtkrYxxx0qeNw/view?usp=sharing)
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
