@@ -1,4 +1,4 @@
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/35267447/236123471-2ada1319-fa49-4b65-affc-350ba7db181e.jpg" alt="console.log('Hello World')">
+<img width="100%" height="100%" src="https://github.com/user-attachments/assets/09881e44-1534-4670-b160-ff321ed7b84f" alt="console.log('Hello World')">
 
 <h1 align="center">Hi 👋, I'm Abu Raihan</h1>
 <h3 align="center">Professional Full-stack Developer</h3>
